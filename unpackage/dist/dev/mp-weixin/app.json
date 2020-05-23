@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/login/index",
+    "pages/index/index",
+    "pages/userList/index",
+    "pages/productList/index",
+    "pages/check/index",
+    "pages/addProduct/index",
+    "pages/addUser/index",
+    "pages/addCatalogue/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

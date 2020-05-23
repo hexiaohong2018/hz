@@ -1,0 +1,36 @@
+.add.data-v-35cdc15b {
+  height: 120rpx;
+  width: 100vw;
+  background-color: white;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  border: 1px solid #e4e7ed;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-right: 20rpx;
+}
+.add-c.data-v-35cdc15b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+

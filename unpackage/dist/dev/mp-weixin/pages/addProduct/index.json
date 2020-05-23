@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "添加报价",
+  "usingComponents": {
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-field": "/node-modules/uview-ui/components/u-field/u-field",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload"
+  }
+}

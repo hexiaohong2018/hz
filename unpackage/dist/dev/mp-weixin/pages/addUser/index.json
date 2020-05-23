@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "编辑员工",
+  "usingComponents": {
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-field": "/node-modules/uview-ui/components/u-field/u-field",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-action-sheet": "/node-modules/uview-ui/components/u-action-sheet/u-action-sheet",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon"
+  }
+}
