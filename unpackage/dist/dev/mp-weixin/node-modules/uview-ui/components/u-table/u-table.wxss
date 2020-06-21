@@ -1,9 +1,8 @@
-.u-table.data-v-10e401a6 {
+.u-table.data-v-03ba4263 {
   width: 100%;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
-.u-table.data-v-10e401a6 t-tr {
+.u-table.data-v-03ba4263 t-tr {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;

@@ -1,11 +1,11 @@
-.u-tips.data-v-6637c4f8 {
+.u-tips.data-v-47c91216 {
   font-size: 26rpx;
   text-align: center;
   padding: 34rpx 0;
   line-height: 1;
   color: #909399;
 }
-.u-action-sheet-item.data-v-6637c4f8 {
+.u-action-sheet-item.data-v-47c91216 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -19,11 +19,11 @@
   font-size: 34rpx;
   padding: 34rpx 0;
 }
-.u-gab.data-v-6637c4f8 {
+.u-gab.data-v-47c91216 {
   height: 12rpx;
   background-color: #eaeaec;
 }
-.u-actionsheet-cancel.data-v-6637c4f8 {
+.u-actionsheet-cancel.data-v-47c91216 {
   color: #303133;
 }
 

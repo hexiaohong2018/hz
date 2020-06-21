@@ -1,10 +1,9 @@
-.u-cell.data-v-5c408ec6 {
+.u-cell.data-v-a9467afa {
   position: relative;
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   width: 100%;
   padding: 20rpx 32rpx;
   font-size: 28rpx;
@@ -13,20 +12,20 @@
   background-color: #fff;
   text-align: left;
 }
-.u-cell_title.data-v-5c408ec6 {
+.u-cell_title.data-v-a9467afa {
   font-size: 28rpx;
 }
-.u-cell__left-icon-wrap.data-v-5c408ec6 {
+.u-cell__left-icon-wrap.data-v-a9467afa {
   margin-right: 10rpx;
   font-size: 32rpx;
 }
-.u-cell__right-icon-wrap.data-v-5c408ec6 {
+.u-cell__right-icon-wrap.data-v-a9467afa {
   margin-left: 10rpx;
   color: #969799;
   font-size: 28rpx;
 }
-.u-cell__left-icon-wrap.data-v-5c408ec6,
-.u-cell__right-icon-wrap.data-v-5c408ec6 {
+.u-cell__left-icon-wrap.data-v-a9467afa,
+.u-cell__right-icon-wrap.data-v-a9467afa {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -35,10 +34,9 @@
           align-items: center;
   height: 48rpx;
 }
-.u-cell-border.data-v-5c408ec6:after {
+.u-cell-border.data-v-a9467afa:after {
   position: absolute;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   content: ' ';
   pointer-events: none;
   right: 0;
@@ -48,32 +46,32 @@
   -webkit-transform: scaleY(0.5);
   transform: scaleY(0.5);
 }
-.u-cell-border.data-v-5c408ec6 {
+.u-cell-border.data-v-a9467afa {
   position: relative;
 }
-.u-border-gap.data-v-5c408ec6:after {
+.u-border-gap.data-v-a9467afa:after {
   left: 32rpx !important;
 }
-.u-cell__label.data-v-5c408ec6 {
+.u-cell__label.data-v-a9467afa {
   margin-top: 6rpx;
   font-size: 26rpx;
   line-height: 36rpx;
   color: #909399;
 }
-.u-cell__value.data-v-5c408ec6 {
+.u-cell__value.data-v-a9467afa {
   overflow: hidden;
   text-align: right;
   vertical-align: middle;
   color: #909399;
   font-size: 26rpx;
 }
-.u-cell__title.data-v-5c408ec6,
-.u-cell__value.data-v-5c408ec6 {
+.u-cell__title.data-v-a9467afa,
+.u-cell__value.data-v-a9467afa {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
 }
-.u-cell--required.data-v-5c408ec6 {
+.u-cell--required.data-v-a9467afa {
   overflow: visible;
   display: -webkit-box;
   display: -webkit-flex;
@@ -82,7 +80,7 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.u-cell--required.data-v-5c408ec6:before {
+.u-cell--required.data-v-a9467afa:before {
   position: absolute;
   content: '*';
   left: 8px;

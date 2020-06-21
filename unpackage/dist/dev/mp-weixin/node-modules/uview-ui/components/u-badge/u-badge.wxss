@@ -1,4 +1,4 @@
-.u-badge-box.data-v-b86e9160 {
+.u-badge-box.data-v-d2c20fe6 {
   display: -webkit-inline-box;
   display: -webkit-inline-flex;
   display: inline-flex;
@@ -9,24 +9,24 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.u-badge.data-v-b86e9160 {
+.u-badge.data-v-d2c20fe6 {
   line-height: 24rpx;
   padding: 4rpx 8rpx;
   border-radius: 100rpx;
 }
-.u-badge-dot.data-v-b86e9160 {
+.u-badge-dot.data-v-d2c20fe6 {
   height: 16rpx;
   width: 16rpx;
   border-radius: 100rpx;
   line-height: 1;
 }
-.u-badge-mini.data-v-b86e9160 {
+.u-badge-mini.data-v-d2c20fe6 {
   -webkit-transform: scale(0.8);
           transform: scale(0.8);
   -webkit-transform-origin: center center;
           transform-origin: center center;
 }
-.u-info.data-v-b86e9160 {
+.u-info.data-v-d2c20fe6 {
   background: #909399;
   color: #fff;
 }

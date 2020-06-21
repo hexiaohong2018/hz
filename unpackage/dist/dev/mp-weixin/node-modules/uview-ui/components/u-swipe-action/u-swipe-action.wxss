@@ -1,11 +1,11 @@
 @charset "UTF-8";
-.u-swipe-action.data-v-794aced8 {
+.u-swipe-action.data-v-21a2fe56 {
   width: auto;
   height: initial;
   position: relative;
   overflow: hidden;
 }
-.u-swipe-view.data-v-794aced8 {
+.u-swipe-view.data-v-21a2fe56 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -13,17 +13,17 @@
   position: relative;
   /* 这一句很关键，覆盖默认的绝对定位 */
 }
-.u-swipe-content.data-v-794aced8 {
+.u-swipe-content.data-v-21a2fe56 {
   -webkit-box-flex: 1;
   -webkit-flex: 1;
           flex: 1;
 }
-.u-swipe-del.data-v-794aced8 {
+.u-swipe-del.data-v-21a2fe56 {
   position: relative;
   font-size: 30rpx;
   color: #ffffff;
 }
-.u-btn-text.data-v-794aced8 {
+.u-btn-text.data-v-21a2fe56 {
   position: absolute;
   top: 50%;
   left: 50%;

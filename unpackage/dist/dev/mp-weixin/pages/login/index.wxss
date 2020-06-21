@@ -1,4 +1,4 @@
-.content.data-v-bdfd5d5c {
+.content.data-v-03af7435 {
   width: 100vw;
   height: 100vh;
   display: -webkit-box;
@@ -15,7 +15,7 @@
   -webkit-align-items: center;
           align-items: center;
 }
-.content .head.data-v-bdfd5d5c {
+.content .head.data-v-03af7435 {
   width: 150rpx;
   height: 150rpx;
   border-radius: 50%;
@@ -23,18 +23,18 @@
   margin-top: 360rpx;
   margin-bottom: 20rpx;
 }
-.content .name.data-v-bdfd5d5c {
+.content .name.data-v-03af7435 {
   font-size: 30rpx;
   margin-bottom: 20rpx;
 }
-.content .reg.data-v-bdfd5d5c {
+.content .reg.data-v-03af7435 {
   background-color: transparent;
   width: 80rpx;
   height: 80rpx;
   padding: 0;
   margin-top: 30rpx;
 }
-.content .reg.data-v-bdfd5d5c:after {
+.content .reg.data-v-03af7435:after {
   border: 0;
 }
 

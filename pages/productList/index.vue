@@ -27,19 +27,19 @@
 				list: [
 					{
 						id: 1,
-						title: '长安回望绣成堆，山顶千门次第开，一骑红尘妃子笑，无人知是荔枝来',
+						title: '商品1',
 						images: 'https://cdn.uviewui.com/uview/common/logo.png',
 						show: false
 					},
 					{
 						id: 2,
-						title: '新丰绿树起黄埃，数骑渔阳探使回，霓裳一曲千峰上，舞破中原始下来',
+						title: '商品2',
 						images: 'https://cdn.uviewui.com/uview/common/logo.png',
 						show: false
 					},
 					{
 						id: 3,
-						title: '登临送目，正故国晚秋，天气初肃。千里澄江似练，翠峰如簇',
+						title: '商品3',
 						images: 'https://cdn.uviewui.com/uview/common/logo.png',
 						show: false,
 					}

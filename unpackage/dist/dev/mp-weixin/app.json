@@ -1,13 +1,13 @@
 {
   "pages": [
-    "pages/login/index",
     "pages/index/index",
     "pages/userList/index",
     "pages/productList/index",
     "pages/check/index",
     "pages/addProduct/index",
     "pages/addUser/index",
-    "pages/addCatalogue/index"
+    "pages/addCatalogue/index",
+    "pages/login/index"
   ],
   "subPackages": [],
   "window": {
@@ -16,5 +16,6 @@
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
   },
-  "usingComponents": {}
+  "usingComponents": {},
+  "sitemapLocation": "sitemap84.json"
 }

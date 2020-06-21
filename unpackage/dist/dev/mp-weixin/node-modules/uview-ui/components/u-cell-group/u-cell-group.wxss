@@ -1,13 +1,13 @@
-.u-cell-box.data-v-9767ce90 {
+.u-cell-box.data-v-a5ab5d96 {
   width: 100%;
 }
-.u-cell-title.data-v-9767ce90 {
+.u-cell-title.data-v-a5ab5d96 {
   padding: 30rpx 32rpx 10rpx 32rpx;
   font-size: 30rpx;
   text-align: left;
   color: #909399;
 }
-.u-cell-item-box.data-v-9767ce90 {
+.u-cell-item-box.data-v-a5ab5d96 {
   background-color: #FFFFFF;
 }
 

@@ -25,6 +25,12 @@
 			}
 		},
 		onLoad() {
+			uniCloud.callFunction({
+				name:'login'
+			}).then(res=>{
+				
+				console.log(res)
+			})
 		},
 		methods:{
 			addCatalogue(){
